@@ -32,7 +32,19 @@ This project includes:
 git clone https://github.com/pkmangukiya/AudioWave-Recorder-for-iOS.git
 ```
 ---
-## 👨‍💻 Author
+
+## 👨‍💻 Maintained By
 
 **Paresh Mangukiya**  
-🔗 [LinkedIn](https://in.linkedin.com/in/pareshmangukiya)
+📧 Email: [pkmangukiya@gmail.com](mailto:pkmangukiya@gmail.com)  
+🐙 GitHub: [github.com/pkmangukiya](https://github.com/pkmangukiya)  
+🔗 LinkedIn: [pareshmangukiya](https://in.linkedin.com/in/pareshmangukiya)
+
+---
+
+## 🤝 Contributions
+
+Pull requests are welcome!  
+Feel free to open issues for suggestions, improvements, or bug reports.
+
+---
