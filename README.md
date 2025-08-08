@@ -30,3 +30,9 @@ This project includes:
 
 ```bash
 git clone https://github.com/pkmangukiya/AudioWave-Recorder-for-iOS.git
+```
+---
+## 👨‍💻 Author
+
+**Paresh Mangukiya**  
+🔗 [LinkedIn](https://in.linkedin.com/in/pareshmangukiya)
